@@ -1,0 +1,20 @@
+function calculatecartprice(val1, val2, val3, val4, ...num1){ 
+
+    return num1
+}
+
+// console.log(calculatecartprice(200,400,600,400))
+
+const user = { 
+     username: "raj"
+   // price: 199
+}
+function handleobject(anyobject){
+    console.log('username is ${anyobject.username} and price is $ {anyobject.price}');
+}
+
+handleobject(user)
+
+
+
+
