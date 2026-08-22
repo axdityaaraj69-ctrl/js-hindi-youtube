@@ -25,7 +25,7 @@ if(userEmail){
  //    console.log("Object is empty");
 // }
 
-// Nullish Coalsecing Operator (??): null undefined
+//  Nullish Coalsecing Operator (??): null undefined
 
 let val1;
 // val1 = 5 ?? 10
